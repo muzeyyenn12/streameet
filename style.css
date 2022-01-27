@@ -1,0 +1,138 @@
+#home{
+    color: green;
+    font-size: large;
+
+}
+
+#baslık{
+    color: green;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.ikon{
+    width: 100px;
+    float: right;
+    margin-right: 20px;
+}
+
+#link{
+    color: green;
+    font-size: large;
+}
+
+#navbarDropdown{
+    color: green;
+    font-size: large;
+
+}
+.form-inline{
+    margin-right: 20px;
+}
+h1{
+    margin-top: 80px;
+    font-weight: bold;
+    text-align: left;
+    font-family: 'Baloo Bhaijaan 2', cursive;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Comic Neue', cursive;
+    font-family: 'Fruktur', cursive;
+    font-family: 'Mochiy Pop One', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Source Sans 3', sans-serif;
+
+}
+p{
+    margin-top: 20px;
+    font-size: x-large;
+    font-family: 'Baloo Bhaijaan 2', cursive;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Comic Neue', cursive;
+    font-family: 'Fruktur', cursive;
+    font-family: 'Mochiy Pop One', sans-serif;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Source Sans 3', sans-serif;
+    text-align: left;
+
+}
+
+.meet{
+    width: 400px;
+    float: right;
+    margin-left: 20px;
+
+}
+.mb-3{
+    margin: 20px auto 0px auto;
+    width: 80%;
+
+    border-radius: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+.form-label{
+    font-weight: bold;
+    color: green;
+    margin: 20px auto 0px auto;
+    width: 80%;
+
+    border-radius: 5px;
+    padding-bottom: 10px;
+}
+
+h2,h3{
+    text-align: center;
+    color: green;
+    font-weight: bold;
+    margin: 20px auto 0px auto;
+    font-family: 'Baloo Bhaijaan 2', cursive;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Comic Neue', cursive;
+    font-family: 'Fruktur', cursive;
+    font-family: 'Mochiy Pop One', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Source Sans 3', sans-serif;
+}
+.row{
+    margin: 20px auto 0px auto;
+    width: 80%;
+    border-radius: 5px;
+    padding-left: 7px;
+    padding-right: 7px;
+
+}
+.form-labelcinsiyet{
+    font-weight: bold;
+    color: green;
+    margin: 20px auto 0px auto;
+    width: 80%;
+    border-radius: 5px;
+    padding-bottom: 10px;
+    padding-left: 175px;
+
+}
+.form-check{
+    margin: 10px auto 0px auto;
+    width: 80%;
+    border-radius: 5px;
+    padding-left: 50px;
+    padding-right: 20px;
+
+}
+.takvim{
+    margin-top: 40px;
+    margin-left: 250px;
+}
+
+
+::placeholder
+{
+    color:red;
+    text-align:center;
+    opacity:1;
+}
